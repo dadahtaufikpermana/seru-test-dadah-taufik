@@ -28,7 +28,14 @@ To install the project, follow these steps:
     ```bash
     flutter pub get
     ```
+    
+### Install the Project
 
+To Install the project on an  physical device, install from these link : 
+[seru-test-dadah-taufik.apl](https://drive.google.com/file/d/1J1jlY6BVbUNYVLo9ff6uvTbBm6XvdpW1/view?usp=sharing)
+
+
+    
 ### Running the Project
 
 To run the project on an emulator or physical device, follow these steps:
@@ -37,6 +44,15 @@ To run the project on an emulator or physical device, follow these steps:
 2. Run the project
     ```bash
     flutter run
+    ```
+
+### Build the Project
+
+To build the project on an emulator or physical device, follow these steps:
+
+How to build APK
+    ```bash
+    flutter build --release
     ```
 
 ### Running Tests
