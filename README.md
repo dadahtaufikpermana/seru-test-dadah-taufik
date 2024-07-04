@@ -54,10 +54,3 @@ How to build APK
     ```bash
     flutter build --release
     ```
-
-### Running Tests
-
-
-To run tests, use the following command:
-```bash
-flutter test
