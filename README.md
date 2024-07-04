@@ -41,7 +41,6 @@ To run the project on an emulator or physical device, follow these steps:
 
 ### Running Tests
 
-
 To run tests, use the following command:
 ```bash
 flutter test
